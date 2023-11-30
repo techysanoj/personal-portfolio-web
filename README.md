@@ -18,7 +18,7 @@ Welcome to the GitHub repository for my interactive and stylish portfolio websit
 
 ## Live Demo
 
-Check out the live demo [here](https://github.com/techysanoj/personal-portfolio-web.github.io)!
+Check out the live demo [here](https://personal-portfolio-web-five.vercel.app/)!
 
 ## Getting Started
 
