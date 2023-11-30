@@ -1,6 +1,6 @@
 # Portfolio Web - Interactive Showcase
 
-![Portfolio Screenshot](/images/project-1.png)
+![Portfolio Screenshot](/portfolio-ss.jpg)
 
 Welcome to the GitHub repository for my interactive and stylish portfolio website! This project aims to provide an engaging experience while showcasing my skills and projects.
 
